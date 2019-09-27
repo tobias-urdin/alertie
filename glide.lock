@@ -1,0 +1,71 @@
+hash: 99ed376c9930b52142b77f3f95411f143d45101a7c9e0e6c3386724ff4b7c3fd
+updated: 2018-02-08T23:15:55.551543771+01:00
+imports:
+- name: github.com/appleboy/gin-jwt
+  version: b98b512ed67b501994175b49a1adfc709b8702d5
+- name: github.com/gin-contrib/sse
+  version: 22d885f9ecc78bf4ee5d72b937e4bbcdc58e8cae
+- name: github.com/gin-gonic/gin
+  version: 783c7ee9c14eac0e65b501664b4f553291556b43
+  subpackages:
+  - binding
+  - json
+  - render
+- name: github.com/go-sql-driver/mysql
+  version: 4a0c3d73d8579f9fc535cf5e654a651cbd57dd6e
+- name: github.com/go-stack/stack
+  version: 259ab82a6cad3992b4e21ff5cac294ccb06474bc
+- name: github.com/golang/protobuf
+  version: 1e59b77b52bf8e4b449a57e6f79f21226d571845
+  subpackages:
+  - proto
+- name: github.com/golang/snappy
+  version: 553a641470496b2327abcac10b36396bd98e45c9
+- name: github.com/inconshreveable/log15
+  version: 0decfc6c20d9ca0ad143b0e89dcaa20f810b4fb3
+- name: github.com/jinzhu/gorm
+  version: 0a51f6cdc55d1650d9ed3b4c13026cfa9133b01e
+  subpackages:
+  - dialects/mysql
+- name: github.com/jinzhu/inflection
+  version: 1c35d901db3da928c72a72d8458480cc9ade058f
+- name: github.com/json-iterator/go
+  version: 002b5ae34214fdc0bad508c2ed6f572fa96dfdda
+- name: github.com/mattn/go-colorable
+  version: 6cc8b475d4682021d75d2cbe2bc481bec4ce98e5
+- name: github.com/mattn/go-isatty
+  version: 6ca4dbf54d38eea1a992b3c722a76a5d1c4cb25c
+- name: github.com/nsqio/go-nsq
+  version: 8c1ff52dff6fd3ecc19c418649bc643b18e862fc
+- name: github.com/satori/go.uuid
+  version: 36e9d2ebbde5e3f13ab2e25625fd453271d6522e
+- name: github.com/ttacon/builder
+  version: c099f663e1c235176c175644792c5eb282017ad7
+- name: github.com/ttacon/libphonenumber
+  version: 8ff0c76f75b1e4d840054e4bac021eac597c66da
+- name: github.com/ugorji/go
+  version: ccfe18359b55b97855cee1d3f74e5efbda4869dc
+  subpackages:
+  - codec
+- name: golang.org/x/crypto
+  version: 0efb9460aaf800c6376acf625be2853bceac2e06
+  subpackages:
+  - bcrypt
+  - blowfish
+- name: golang.org/x/sys
+  version: 810d7000345868fc619eb81f46307107118f4ae1
+  subpackages:
+  - unix
+- name: google.golang.org/appengine
+  version: 5bee14b453b4c71be47ec1781b0fa61c2ea182db
+  subpackages:
+  - cloudsql
+- name: gopkg.in/dgrijalva/jwt-go.v3
+  version: dbeaa9332f19a944acb5736b4456cfcc02140e29
+- name: gopkg.in/go-playground/validator.v8
+  version: 5f1438d3fca68893a817e4a66806cea46a9e4ebf
+- name: gopkg.in/ini.v1
+  version: 32e4c1e6bc4e7d0d8451aa6b75200d19e37a536a
+- name: gopkg.in/yaml.v2
+  version: d670f9405373e636a5a2765eea47fac0c9bc91a4
+testImports: []

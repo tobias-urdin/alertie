@@ -1,0 +1,4 @@
+package: github.com/tobias-urdin/alertie
+import:
+- package: github.com/gin-gonic/gin
+  version: 783c7ee9c14eac0e65b501664b4f553291556b43
